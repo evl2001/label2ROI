@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "label2ROI";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "label2ROI version 1.0, Copyright (c) 2016 EM.";
+NSHumanReadableCopyright = "Copyright (c) 2016 EM.";

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'label2ROI' target in the 'label2ROI' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AppKit/AppKit.h>
+#endif
